@@ -29,7 +29,7 @@ SET time_zone = "+00:00";
 
 DROP TABLE IF EXISTS `article`;
 DROP TABLE IF EXISTS `users`;
-DROP TABLE IF EXISTS `shopping_list`;
+
 
 CREATE TABLE `article` (
   `id` int(11) NOT NULL,
